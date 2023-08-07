@@ -2,61 +2,8 @@ title: Learn BTC
 author: JP Gaviria
 url: https://www.btclearn.org # root address of the site
 description: > # description of the site (multiple lines allowed)
-  ---\n
-
-  Welcome to Bitcoin Learning Hub!
-
-  📚 **Your Comprehensive, Free Guide to Bitcoin** 📚
-
-  ---
-
-  🌟 **About Us**
-
-  Bitcoin is not just a cryptocurrency; it's a movement, a shift towards decentralized finance. Here at **Bitcoin Learning Hub**, we believe in empowering individuals with knowledge. We've created this platform to provide everyone, everywhere, free access to high-quality, comprehensive resources on Bitcoin.
-
-  ---
-
-  🔍 **What Can You Discover?**
-  
-  - **Bitcoin Basics**: Grasp the foundational ideas. How did Bitcoin start? How does it function? What's its purpose?
-  
-  - **Technical Deep Dives**: Demystify the intricacies behind Bitcoin's technology – the blockchain, mining, and how transactions work.
-  
-  - **Security Practices**: Learn how to keep your Bitcoin holdings secure, understand potential threats and ways to mitigate them.
-  
-  - **History & Evolution**: Trace back Bitcoin's roots and understand the events that have shaped it over the years.
-  
-  - **Latest News & Analysis**: Stay in the loop with the world of Bitcoin through our frequently updated news section.
-  
-  ---
-  
-  ✨ **Why Trust Our Resources?**
-  
-  - **Expert Curated Content**: We are a team of Bitcoin enthusiasts, tech experts, and journalists. We're committed to providing factual, unbiased, and thorough information.
-  
-  - **Interactive Learning Tools**: Engage with videos, infographics, and quizzes to make your learning experience more dynamic.
-  
-  - **Community Collaboration**: Our forums are a hive of discussions. Learn from fellow enthusiasts, ask questions, and share your insights.
-  
-  ---
-  
-  📣 **Get Started!**
-  
-  Venture into the world of Bitcoin with confidence. Delve into our extensive library and enlighten yourself today. Knowledge, after all, is power.
-  
-  ---
-  
-  🔗 **Engage with Our Community**:
-  
-  - **[Join our Forum Discussions](#)**: Collaborate, learn, and share with a community that's passionate about Bitcoin.
-  
-  - **[Follow Us on Social Media](#)**: Keep up with daily tidbits, updates, and facts on [Twitter](#), [Instagram](#), [Facebook](#).
-  
-  ---
-  
-  *Deciphering Bitcoin, One Article at a Time.*
-  
-  ---
+ 
+  📚 Your Comprehensive, Free Guide to Bitcoin 📚
 
 permalink: /:slug
 
