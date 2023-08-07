@@ -9,9 +9,9 @@ navbar_entries:
     url: https://www.btclearn.org
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Intro to Bitcoin
+    url: intro
+    desc: What is Bitcoin
 
   #- title: Project 2
   #  url: overview-post
