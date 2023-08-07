@@ -13,9 +13,9 @@ project_entries:
     url: intro
     desc: What is Bitcoin
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  #- title: Project 2
+  #  url: overview-post
+  #  desc: Projects are shown in card layout
 
   #- title: Project 3
   #  url: overview-post
