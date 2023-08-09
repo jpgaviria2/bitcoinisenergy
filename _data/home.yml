@@ -17,9 +17,9 @@ project_entries:
     url: incentives
     desc: Bitcoin realigns incentives
 
-  #- title: Project 3
-  #  url: overview-post
-  #  desc: You can control visibility from _config.yml file
+  - title: Consensus rules
+    url: consensus
+    desc: What are consensus rules and why they are important
 
   #- title: Project 4
   #  url: overview-post
