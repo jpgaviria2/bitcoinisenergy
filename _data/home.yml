@@ -21,9 +21,9 @@ project_entries:
     url: consensus
     desc: What are consensus rules and why they are important
 
-  #- title: Project 4
-  #  url: overview-post
-  #  desc: This project uses highlight markup, configured in _data/home.yml
+  - title: Bitcoin nodes
+    url: nodes
+    desc: Why is important to run a full node and types of nodes
   #  highlight: WIP
 
   #- title: Project 5
