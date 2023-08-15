@@ -26,9 +26,9 @@ project_entries:
     desc: Why is important to run a full node and types of nodes
   #  highlight: WIP
 
-  #- title: Project 5
-  #  url: overview-post
-  #  desc: Moonwalk also has horizontal list (used in header and footer)
+  - title: Education
+    url: education
+    desc: Best Bitcoin education resources.
   #  highlight: WIP
 
   #- title: Project 6
