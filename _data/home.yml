@@ -32,7 +32,7 @@ project_entries:
   #  highlight: WIP
 
   - title: WTF happened to aviation in 1971
-    url: Aviation
+    url: aviation
   #  desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
