@@ -31,8 +31,8 @@ project_entries:
     desc: Best Bitcoin education resources.
   #  highlight: WIP
 
-  #- title: Project 6
-  #  url: overview-post
+  - title: WTF happened to aviation in 1971
+    url: aviation
   #  desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
